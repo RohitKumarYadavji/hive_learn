@@ -64,7 +64,6 @@ class _MyFirstAppState extends State<MyFirstApp> {
               )
             ],
           );
-          ;
         },
       ),
       floatingActionButton: FloatingActionButton(
